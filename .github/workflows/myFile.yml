@@ -2,7 +2,7 @@
 
 name: My-Github
 env:
-  Application_name : "My App"
+  Application_name : "My_App"
   Package_name : "app_version-${{ github.sha }}"
 
 # Controls when the action will run. 
